@@ -12,8 +12,13 @@ The CICIDS2017 dataset is a realistic and up-to-date dataset of network traffic 
 ## Methodology
 The methodology of this project consists of the following steps:
 
-## Data preprocessing: The data is cleaned, normalized, and encoded to make it suitable for machine learning models.
-Feature selection: The features are ranked and selected based on their relevance and importance for anomaly detection using various techniques such as correlation analysis, information gain, and chi-square test.
-Model training: The selected features are used to train different machine learning models such as decision tree, random forest, and k-nearest neighbors
-Model evaluation: The trained models are evaluated on the test dataset using various metrics such as accuracy, precision, recall, f1-score, and confusion matrix.
-Model comparison: The performance of the different models is compared and analyzed to find the best model for anomaly detection.
+### Data preprocessing: 
+  The data is cleaned, normalized, and encoded to make it suitable for machine learning models.
+### Feature selection: 
+  The features are ranked and selected based on their relevance and importance for anomaly detection using various techniques such as correlation analysis, information gain, and chi-    square test.
+### Model training: 
+  The selected features are used to train different machine learning models such as decision tree, random forest, and k-nearest neighbors
+### Model evaluation: 
+  The trained models are evaluated on the test dataset using various metrics such as accuracy, precision, recall, f1-score, and confusion matrix.
+### Model comparison: 
+  The performance of the different models is compared and analyzed to find the best model for anomaly detection.
