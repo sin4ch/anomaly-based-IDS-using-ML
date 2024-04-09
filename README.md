@@ -8,7 +8,14 @@ Anomaly-based IDSs can overcome this limitation by using machine learning models
 This project aims to make a comparison anomaly-based intrusion detection system (AIDS) using supervised machine learning (ML) models such as the k-Nearest Neighbour, Decision Tree, Random Forest and XGBoost. It also evaluates their effectiveness by deriving their accuracy, f1, precision and recall scores.
 
 ## Dataset
-The CICIDS2017 dataset is a realistic and up-to-date dataset of network traffic analysis and intrusion detection systems, covering common attacks, background traffic, and features. It contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). It also includes the results of the network traffic analysis using CICFlowMeter with labeled flows based on the time stamp, source, and destination IPs, source and destination ports, protocols and attack (CSV files).
+The CICIDS2017 dataset is a realistic and up-to-date dataset of network traffic analysis and intrusion detection systems, covering common attacks, background traffic, and features. It contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs).
+
+The composition of the datatset is shown in the diagram below:
+![CICIDS2017 composition](https://www.researchgate.net/publication/348762783/figure/fig3/AS:1080260850393137@1634565665349/Distribution-of-labels-in-the-CICIDS2017-dataset.jpg)
+
+It also includes the results of the network traffic analysis using CICFlowMeter with labeled flows based on the time stamp, source, and destination IPs, source and destination ports, protocols and attack (CSV files).
+
+
 
 ## Results
 
