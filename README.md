@@ -8,18 +8,24 @@ The CICIDS2017 dataset is a realistic and up-to-date dataset of network traffic 
 
 ## Results
 
-Accuracy :
-`! (alt text)(path/to/image.png `Text to show on mouseover'')
+Accuracy :  
 
-## Recall, Precision and Recall scores of:
+![accuracy scores; training and test times](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/Screenshot%202024-04-09%20114124.png)
+
+## Recall, Precision and F1 scores of:
 - XGBoost:
-`! (alt text)(path/to/image.png `Text to show on mouseover'')
+
+![XGBoost Recall, Precision and F1 scores](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/XGBoost.png)
 - KNN
-`! (alt text)(path/to/image.png `Text to show on mouseover'')
+
+![KNN Recall, Precision and F1 scores](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/KNN.png)
 - Random Forest (RF)
-`! (alt text)(path/to/image.png `Text to show on mouseover'')
+
+![RF Recall, Precision and F1 scores](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/RandomForest.png)
 - Decision Tree (DT)
-`! (alt text)(path/to/image.png `Text to show on mouseover'')
+  
+![DT Recall, Precision and F1 scores](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/Decision_Tree.png)
+
 
 
 
