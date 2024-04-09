@@ -8,13 +8,18 @@ The CICIDS2017 dataset is a realistic and up-to-date dataset of network traffic 
 
 ## Results
 
-Accuracy:
+Accuracy :
+`! (alt text)(path/to/image.png `Text to show on mouseover'')
 
-Precision:
-
-Recall:
-
-F1 Score:
+## Recall, Precision and Recall scores of:
+- XGBoost:
+`! (alt text)(path/to/image.png `Text to show on mouseover'')
+- KNN
+`! (alt text)(path/to/image.png `Text to show on mouseover'')
+- Random Forest (RF)
+`! (alt text)(path/to/image.png `Text to show on mouseover'')
+- Decision Tree (DT)
+`! (alt text)(path/to/image.png `Text to show on mouseover'')
 
 
 
