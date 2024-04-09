@@ -1,4 +1,4 @@
-# Anomaly-based Intrusion Detection System using kNN, Decision Tree and Random Forest
+# Anomaly-based Intrusion Detection System using kNN, Decision Tree, Random Forest, XGBoost
 
 ## Introduction
 This project aims to develop an anomaly-based intrusion detection system (AIDS) using machine learning (ML) models. Anomaly-based IDSs detect intrusions by comparing the network traffic with a normal baseline and flagging any deviations as potential attacks. Machine learning techniques can help to learn the normal behavior of the network and identify unknown or zero-day attacks.
