@@ -1,7 +1,9 @@
 # Comparison and evaluation of machine learning models (kNN, Decision Tree, Random Forest, XGBoost) for analysis of the CICIDS2017 Dataset for an anomaly-based IDS
 
 ## Introduction
-Network security is a critical issue in the modern world, as cyberattacks can cause severe damage to individuals, organizations, and governments. Traditional signature-based IDSs rely on predefined rules or patterns to detect known attacks, but they are ineffective against novel or sophisticated attacks. 
+Network security is a critical issue in the modern world, as cyberattacks can cause severe damage to individuals, organizations, and governments. More than ever before, improving malware detection mechanisms have grown to be more and more essential in the new world of biig data. To address these issues, there are two means of detecting malware. Traditional signature-based IDSs rely on predefined rules or patterns to detect known attacks, but they are ineffective against novel or sophisticated attacks. 
+
+![IDS classification](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/Types-of-Intrusion-Detection-Techniques.png)
 
 Anomaly-based IDSs can overcome this limitation by using machine learning models to learn the normal network behavior and detect any anomalies. Anomaly-based IDSs detect intrusions by comparing the network traffic with a normal baseline and flagging any deviations as potential attacks. Machine learning techniques can help to learn the normal behavior of the network and identify unknown or zero-day attacks.
 
