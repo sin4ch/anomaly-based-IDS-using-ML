@@ -10,7 +10,7 @@ This project aims to make a comparison anomaly-based intrusion detection system 
 ## Dataset
 The CICIDS2017 dataset is a realistic and up-to-date dataset of network traffic analysis and intrusion detection systems, covering common attacks, background traffic, and features. It contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs).
 
-The composition of the datatset is shown in the diagram below:  
+The composition, or _features_, of the datatset is shown in the diagram below:  
 
 ![CICIDS2017 composition](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/Distribution-of-labels-in-the-CICIDS2017-dataset.png)
 
