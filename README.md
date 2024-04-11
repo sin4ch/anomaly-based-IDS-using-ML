@@ -22,11 +22,11 @@ It also includes the results of the network traffic analysis using CICFlowMeter 
 
 ## Results
 
-Accuracy score, Training and Test times:  
+_Training and Test Accuracies_:  
 
 ![accuracy scores; training and test times](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/Screenshot%202024-04-09%20114124.png)
 
-## F1, Recall & Precision scores of:
+## `F1`, `Recall` & `Precision` scores of:
 - XGBoost:
 
 ![XGBoost Recall, Precision and F1 scores](https://github.com/sin4ch/anomaly-based-IDS-using-ML/blob/main/XGBoost.png)
